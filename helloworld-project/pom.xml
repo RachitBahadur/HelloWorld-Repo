@@ -4,7 +4,7 @@
   <artifactId>craetewar</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
-  <name>craetewar</name>
+  <name>HelloWorld</name>
   
    <parent>
         <groupId>org.springframework.boot</groupId>
